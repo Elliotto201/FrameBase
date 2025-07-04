@@ -1,0 +1,56 @@
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Dd]ebug*/
+[Rr]elease*/
+
+# Visual Studio specific files
+.vs/
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+*.pidb
+*.sln.docstates
+
+# Rider files
+.idea/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Mono auto generated files
+*.pidb
+*.booproj
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Others
+*.cache
+*.ilk
+*.pdb
+*.obj
+*.exe
+*.dll
+*.mdb
+*.vspscc
+*.vssscc
