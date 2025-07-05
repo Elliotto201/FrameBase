@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="ClickableTransparentOverlay" Version="9.1.0" />
+    <PackageReference Include="MediaFoundation.Net" Version="2.0.0.32" />
+  </ItemGroup>
+
 </Project>
